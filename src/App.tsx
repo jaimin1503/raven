@@ -75,7 +75,7 @@ const featureCards = [
 ];
 
 // Must also be added in Play Console → Closed testing → Testers
-const TESTER_GROUP_URL = 'https://groups.google.com/g/ravenroll-testers';
+const TESTER_GROUP_URL = 'https://groups.google.com/g/ravenroll-testers/about';
 const PLAY_OPT_IN_URL = 'https://play.google.com/apps/testing/com.twopixellabs.raven';
 const INSTAGRAM_URL = 'https://www.instagram.com/theravenroll/';
 
